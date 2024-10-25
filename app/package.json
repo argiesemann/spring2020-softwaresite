@@ -20,7 +20,7 @@
     "jquery": "^3.4.1",
     "mysql": "^2.18.1",
     "vee-validate": "^3.2.5",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-chartjs": "^3.5.0",
     "vue-fuse": "^2.2.1",
     "vue-router": "^3.1.6",
